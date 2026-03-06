@@ -17,8 +17,8 @@
 # Development timeline
 
 - Week 1 2：完成Proposal、蒐集素材
-- [] 蒐集遊戲的素材（精靈圖 Sprite sheet、背景音效等）
-- [] 完成Proposal
+- [ ] 蒐集遊戲的素材（精靈圖 Sprite sheet、背景音效等）
+- [ ] 完成Proposal
 
 - Week 3：核心物理與玩家移動
 - [ ] 實作重力系統與鍵盤控制
